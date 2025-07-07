@@ -19,5 +19,5 @@ My name is Breno Diogo. I'm a Developer.   👩‍💻
 
 ### Contact 🐒
 <a href ="mailto: brenodiogosilvadafonseca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-thr-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@breno_klark?is_from_webapp=1&sender_device=pc" width="60"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)"/></a>
+<a href="https://www.tiktok.com/@breno_klark?is_from_webapp=1&sender_device=pc" width="50"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)"/></a>
 
