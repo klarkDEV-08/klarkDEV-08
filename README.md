@@ -15,7 +15,7 @@ My name is Breno Diogo. I'm a Developer.   👩‍💻
 
 
 
-<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBrcDFqc3BjM2s0NzhqajV4dm1tMnpjMnNrNzBmZXpiN3h0bnBzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHpC7mG5fOaA3cgYw1/giphy.gif"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
 
 ### Contact 🐒
 <a href ="mailto: brenodiogosilvadafonseca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-thr-badge&logo=gmail&logoColor=white"/></a>
