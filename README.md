@@ -9,7 +9,7 @@ My name is Breno Diogo. I'm a Developer.   👩‍💻
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;
 
-### Analytics ⚙️
+
 
 
 
