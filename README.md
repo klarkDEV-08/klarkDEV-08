@@ -1,4 +1,4 @@
-<h1><img src="https://www.bing.com/ck/a?!&&p=2cae593663635e92383eb3ee3a5ba162ac405690c6803dbea4faf0d17f5b3897JmltdHM9MTc1MTg0NjQwMA&ptn=3&ver=2&hsh=4&fclid=0ddc509f-bd6a-633e-23e8-4578bc3b626f&u=a1L2ltYWdlcy9zZWFyY2g_cT1naWYlMjBrcmF0b3MmRk9STT1JUUZSQkEmaWQ9QUMzRTFFOUM3QTVERDRBNDBGQ0QzQjhCQkE4MzZCRkQwQjEwQzVBMQ&ntb=1" width="30"/> Hello, World ! </h1>
+<h1><img src="https://media.tenor.com/W0wAOVqYANYAAAAC/kratos.gif"/> Hello, World ! </h1>
 ========================================================================================
 
 My name is Breno Diogo. I'm a Developer.   👩‍💻
