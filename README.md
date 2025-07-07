@@ -7,7 +7,8 @@ My name is Breno Diogo. I'm a Developer.   👩‍💻
 
 ### Languages & Tools 🛠  
 
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![HTML](<img alt="GitHub deployments" src="https://img.shields.io/github/deployments/:user/:repo/:environment">)
+
 
 
 
