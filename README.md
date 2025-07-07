@@ -7,7 +7,7 @@ My name is Breno Diogo. I'm a Developer.   👩‍💻
 
 ### Languages & Tools 🛠  
 
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
