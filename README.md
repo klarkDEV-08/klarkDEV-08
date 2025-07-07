@@ -1,4 +1,4 @@
-<h1><img src="https://media.tenor.com/xmnzcwb-GJEAAAAj/krathos-%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D1%81.gif" widht="30px"/> Hello, World ! </h1>
+<h1><img src="https://media.tenor.com/xmnzcwb-GJEAAAAj/krathos-%D0%BA%D1%80%D0%B0%D1%82%D0%BE%D1%81.gif" widht="30"/> Hello, World ! </h1>
 ========================================================================================
 
 My name is Breno Diogo. I'm a Developer.   👩‍💻
