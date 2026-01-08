@@ -45,13 +45,15 @@ Conhecimentos em nível **básico a intermediário**, sempre buscando evoluir �
 
 ### 📬 Contato
 
-<p>
-  📧 **Email:** <a href="mailto:brenodiogosilvadafonseca@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-  📸 <strong>Instagram:</strong> SEU_INSTAGRAM_AQUI
-</p>
+<p align="center">
+  <a href="mailto:brenodiogosilvadafonseca@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 
+  <a href="https://www.instagram.com/brenooz._/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 ---
 
 <p align="center">
