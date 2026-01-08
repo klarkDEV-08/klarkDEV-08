@@ -46,7 +46,9 @@ Conhecimentos em nível **básico a intermediário**, sempre buscando evoluir �
 ### 📬 Contato
 
 <p>
-  📧 **Email:** [brenodiogosilvadafonseca@gmail.com](mailto:brenodiogosilvadafonseca@gmail.com)
+  📧 **Email:** <a href="mailto:brenodiogosilvadafonseca@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
   📸 <strong>Instagram:</strong> SEU_INSTAGRAM_AQUI
 </p>
 
