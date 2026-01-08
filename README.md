@@ -1,51 +1,57 @@
-# 👋 Olá! Eu sou um Desenvolvedor em Formação
+<h2 align="center">👋 Olá! Eu sou um Desenvolvedor em Formação</h2>
 
-Bem-vindo ao meu perfil! 🚀  
-Sou um desenvolvedor em início de carreira, focado em aprender, evoluir constantemente e construir uma base sólida na área de programação.
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 📚 Sempre buscando aprender coisas novas  
-- 💡 Interessado em desenvolvimento web e lógica de programação  
-- 🎯 Focado em evolução constante e prática diária  
+<p align="center">
+  🚀 Apaixonado por tecnologia • 📚 Em constante aprendizado • 💡 Focado em evolução
+</p>
 
 ---
 
-## 🚀 Tecnologias que conheço
+### 🧑‍💻 Sobre mim
 
-Atualmente possuo conhecimentos em nível **básico/intermediário** nas seguintes linguagens:
-
-- 🌐 **HTML**
-- 🎨 **CSS**
-- ⚡ **JavaScript**
-- 🐍 **Python**
-- 🗄️ **SQL**
+Sou um desenvolvedor em início de carreira, focado em aprender e evoluir constantemente na área de programação.  
+Gosto de estudar na prática, criando projetos e melhorando minha lógica todos os dias.
 
 ---
 
-## 📖 O que estou estudando atualmente
+### 🚀 Tecnologias que conheço
 
-- Desenvolvimento Web  
-- Lógica de Programação  
-- Python e JavaScript com foco em projetos práticos  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
 
----
-
-## 🎯 Objetivos
-
-- Me profissionalizar na área de tecnologia  
-- Construir projetos reais para portfólio  
-- Conquistar minha primeira oportunidade como desenvolvedor  
+Conhecimentos em nível **básico a intermediário**, sempre buscando evoluir 🚀
 
 ---
 
-## 📬 Contato
+### 📖 O que estou estudando atualmente
 
-- 📧 **Email:** SEU_EMAIL_AQUI  
-- 📸 **Instagram:** SEU_INSTAGRAM_AQUI  
+💻 Desenvolvimento Web  
+🧠 Lógica de Programação  
+🐍 Python e ⚡ JavaScript com foco em projetos práticos
 
 ---
 
-⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
+### 🎯 Objetivos
+
+✔ Me profissionalizar na área de tecnologia  
+✔ Construir projetos para portfólio  
+✔ Conquistar minha primeira oportunidade como desenvolvedor  
+
+---
+
+### 📬 Contato
+
+<p>
+  📧 <strong>Email:</strong> SEU_EMAIL_AQUI <br>
+  📸 <strong>Instagram:</strong> SEU_INSTAGRAM_AQUI
+</p>
+
+---
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil! Fique à vontade para acompanhar minha evolução.
+</p>
