@@ -1,61 +1,68 @@
-<h2 align="center">👋 Olá! Eu sou um Desenvolvedor em Formação</h2>
+# Olá, mundo! Eu sou o Breno Diogo Silva da Fonseca, mais conhecido como KlarkDev 🍷✨
 
 <p align="center">
-  🚀 Apaixonado por tecnologia • 📚 Em constante aprendizado • 💡 Focado em evolução
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=661021&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end;Entusiasta+de+UI%2FUX;Apaixonado+por+Tecnologia;Resolvendo+problemas+com+código" alt="Typing SVG" />
+</p>
+
+## 📌 Sobre Mim
+
+Sou um **[Desenvolvedor Front-End]** focado em criar landing pages e sites pessoais. Gosto de resolver problemas de maneira tecnológica e inteligente.
+
+* 🔭 Atualmente estudando **[Back-End]**.
+* 🎓 Cursando **Ánalise e Desenvolvimento de Sistemas** pelo **[Senai]**.
+* 📫 Como me encontrar: **[brenodiogosilvadafonseca@gmail.com]**
+
+---
+
+## 🛠️ Minha Caixa de Ferramentas
+
+Minhas principais tecnologias e ferramentas organizadas por área de domínio:
+
+### **Front-end**
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/HTML-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/CSS.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/SQL_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Back-end**
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 Estatísticas e Atividade
+
+Aqui está um resumo profissional da minha atividade no GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&bg_color=fafafa&title_color=661021&icon_color=661021&text_color=333" alt="Estatísticas do GitHub de [Seu Nome]" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&theme=rose_pine&hide_border=true&bg_color=fafafa&title_color=661021&text_color=333" alt="Linguagens mais usadas por [Seu Nome]" height="170" />
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+## 🤝 Vamos nos conectar?
 
-Sou um desenvolvedor em início de carreira, focado em aprender e evoluir constantemente na área de programação.  
-Gosto de estudar na prática, criando projetos e melhorando minha lógica todos os dias.
-
----
-
-### 🚀 Tecnologias que conheço
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
-Conhecimentos em nível **básico a intermediário**, sempre buscando evoluir 🚀
-
----
-
-### 📖 O que estou estudando atualmente
-
-💻 Desenvolvimento Web  
-🧠 Lógica de Programação  
-🐍 Python e ⚡ JavaScript com foco em projetos práticos
-
----
-
-### 🎯 Objetivos
-
-✔ Me profissionalizar na área de tecnologia  
-✔ Construir projetos para portfólio  
-✔ Conquistar minha primeira oportunidade como desenvolvedor  
-
----
-
-### 📬 Contato
+Gosto de trocar ideias e colaborar em projetos interessantes. Sinta-se à vontade para me chamar!
 
 <p align="center">
-  <a href="mailto:brenodiogosilvadafonseca@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="[LINK_DO_SEU_LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.instagram.com/brenooz._/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="[LINK_DO_SEU_PORTFOLIO]">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-661021?style=for-the-badge&logo=expertsexchange&logoColor=white" alt="Portfólio Pessoal" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:[SEU_EMAIL]">
+    <img src="https://img.shields.io/badge/E--mail-fafafa?style=for-the-badge&logo=gmail&logoColor=661021" alt="Enviar E-mail" />
   </a>
 </p>
----
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil! Fique à vontade para acompanhar minha evolução.
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/wave.gif" width="150px">
 </p>
