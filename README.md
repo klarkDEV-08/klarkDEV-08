@@ -37,9 +37,9 @@ Minhas principais tecnologias e ferramentas organizadas por área de domínio:
 Aqui está um resumo profissional da minha atividade no GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&bg_color=fafafa&title_color=661021&icon_color=661021&text_color=333" alt="Estatísticas do GitHub de [Seu Nome]" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[klarkDEV-08]&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&bg_color=fafafa&title_color=661021&icon_color=661021&text_color=333" alt="Estatísticas do GitHub de klarkDEV-08" height="170" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&theme=rose_pine&hide_border=true&bg_color=fafafa&title_color=661021&text_color=333" alt="Linguagens mais usadas por [Seu Nome]" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[klarkDEV-08]&layout=compact&theme=rose_pine&hide_border=true&bg_color=fafafa&title_color=661021&text_color=333" alt="Linguagens mais usadas por [klarkDEV-08]" height="170" />
 </p>
 
 ---
